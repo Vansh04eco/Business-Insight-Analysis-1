@@ -68,23 +68,24 @@ Utilized gauge charts to compare monthly orders against targets with conditional
 
 ### Report Snapshot
 
- ![Screenshot 2024-08-10 214751](https://github.com/user-attachments/assets/060062f6-9c82-442a-a24e-91d92ce9cb3a)
+![Screenshot 2024-08-11 050228](https://github.com/user-attachments/assets/e6612f48-f3f1-4f80-874a-5b4eaa4cd2bf)
 
-![Screenshot 2024-08-10 215005](https://github.com/user-attachments/assets/fb3ff3be-841e-4ca8-bc10-dd9d4a226aa9)
+![Screenshot 2024-08-11 050255](https://github.com/user-attachments/assets/0ea16100-ec66-4b87-bd3f-8a4d9f246c72)
+
 
 ### Customer Overview
 
 - Top Customer
-![Screenshot 2024-08-10 215136](https://github.com/user-attachments/assets/79b82793-0225-4153-a1fd-5cc0369370d9)
+![Screenshot 2024-08-11 050332](https://github.com/user-attachments/assets/29cee8c3-a6e5-4b31-ac38-128fe09c70e8)
 
-![Screenshot 2024-08-10 215159](https://github.com/user-attachments/assets/15d54099-05e9-40bf-9fd7-442b5c13c64b)
+![Screenshot 2024-08-11 050343](https://github.com/user-attachments/assets/939296a5-e11f-4445-8483-ccd14bd8c1f9)
 
 ### Product Overview
 
-![Screenshot 2024-08-10 214942](https://github.com/user-attachments/assets/a39a14de-fc50-4ec7-a7ff-653766a49ce4)
+![Screenshot 2024-08-11 050243](https://github.com/user-attachments/assets/7292f1ed-3b94-4241-a88c-3cc2f093041f)
 
 - Product related KPIs
-![Screenshot 2024-08-10 215032](https://github.com/user-attachments/assets/a5655671-3f73-455b-909a-e5a1860f8415)
+![Screenshot 2024-08-11 050312](https://github.com/user-attachments/assets/df0467d1-f6c8-408d-be47-d769c34024b7)
 
 # Insights
 
